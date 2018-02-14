@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/jrchew/mobile/react/personal/ZeroFoxGiven/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/jrchew/mobile/react/personal/ZeroFoxGiven/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/jrchew/mobile/react/personal/ZeroFoxGiven/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/jrchew/mobile/react/personal/ZeroFoxGiven/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/jrchew/mobile/react/personal/ZeroFoxGiven/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/jrchew/mobile/react/personal/ZeroFoxGiven/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/jrchew/mobile/react/personal/ZeroFoxGiven/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/jrchew/mobile/react/personal/ZeroFoxGiven/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/jrchew/mobile/react/personal/ZeroFoxGiven/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/jrchew/mobile/react/personal/ZeroFoxGiven/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/jrchew/mobile/react/personal/ZeroFoxGiven/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/jrchew/mobile/react/personal/ZeroFoxGiven/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/jrchew/mobile/react/personal/ZeroFoxGiven/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/jrchew/mobile/react/personal/ZeroFoxGiven/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/jrchew/mobile/react/personal/ZeroFoxGiven/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/jrchew/mobile/react/personal/ZeroFoxGiven/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/jrchew/mobile/react/personal/ZeroFoxGiven/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/jrchew/mobile/react/personal/ZeroFoxGiven/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/jrchew/mobile/react/personal/ZeroFoxGiven/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/jrchew/mobile/react/personal/ZeroFoxGiven/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/jrchew/mobile/react/personal/ZeroFoxGiven/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h
